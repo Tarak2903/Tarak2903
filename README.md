@@ -1,5 +1,10 @@
+
+Replace your README with this clean version only:
+
+:::writing{variant="social_post" id="58124"}
 ```md
 <h1 align="center">Hey 👋, I'm Tarak Khurana</h1>
+
 <h3 align="center">
 🚀 Full Stack Developer | Problem Solver | System Design Enthusiast
 </h3>
@@ -76,7 +81,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarak2903&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarak2903&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -109,4 +114,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarak2903&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
-```
