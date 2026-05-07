@@ -1,7 +1,3 @@
-
-Replace your README with this clean version only:
-
-:::writing{variant="social_post" id="58124"}
 ```md
 <h1 align="center">Hey 👋, I'm Tarak Khurana</h1>
 
@@ -114,3 +110,4 @@ Replace your README with this clean version only:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarak2903&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
+```
