@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | Problem Solver | System Design Enthusiast
+Passionate Full Stack Developer with strong problem-solving skills and a deep interest in scalable systems, backend engineering, and modern web technologies. Experienced in building responsive and dynamic applications using React, Spring Boot, and SQL databases. Enthusiastic about Data Structures & Algorithms, System Design, and continuously learning cloud and microservices architecture to build impactful real-world solutions.
 
 
 ## 🌐 Socials:
